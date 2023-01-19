@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "The Last of Us",
+            "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/11/30/19/53/5856320.jpg",
+            "link": "https://www.youtube.com/embed/fZoigAAj1-M"
+        },
+        {
+            "id": 2,
+            "titulo": "House Of The Dragons",
+            "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/05/30/15/56/1469166.jpg",
+            "link": "https://www.youtube.com/embed/i4bHdYT5D40"
+        },
+        {
+            "id": 3,
+            "titulo": "Chucky",
+            "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/28/13/26/5105137.jpg",
+            "link": "https://www.youtube.com/embed/KKMuQCiDcMI"
+        },
+        {
+            "id": 4,
+            "titulo": "GodFather Of Harlem",
+            "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/19/10/01/15/27/0243136.jpg",
+            "link": "https://www.youtube.com/watch?v=TY2iauDjadI"
+        }
+    ]
+}
